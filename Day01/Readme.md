@@ -99,6 +99,7 @@ Learn by doing
 
 # Let's code!
 
+python.org/downloads/
 anaconda.com/distribution/
 
 
