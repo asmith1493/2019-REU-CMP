@@ -48,7 +48,7 @@ Learn by doing
 
 ## Course Site
 
-`nd.edu/~brose3/2018reu-cmp`
+`chrisseymour.pythonanywhere.com/reu-python-2019`
 
 - includes installation files, data, notes, schedule, etc.
 - will be continually updated during the course
