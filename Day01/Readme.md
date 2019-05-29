@@ -99,7 +99,7 @@ Learn by doing
 
 # Let's code!
 
-www.continuum.io/downloads
+anaconda.com/distribution/
 
 
 <!--
