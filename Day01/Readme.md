@@ -153,9 +153,9 @@ len('physics')
 Each variables is of a specific *type*.
 
 ```
-name = 'Ben'
+name = 'Chris'
 print(name)
-full_name = name + ' Rose'
+full_name = name + ' Seymour'
 print('My full name is', full_name)
 type(name)
 ```
@@ -176,8 +176,8 @@ We can create a *program* (*module* or sometimes *script*) that we can just run,
 #!/usr/bin/env python3
 """ file.py -- description
 
-Ben Rose
-2017-05-31
+Chris Seymour
+2019-05-29
 """
 # code goes here
 print(5**2)
