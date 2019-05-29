@@ -39,7 +39,7 @@ Learn by doing
 ---
 ## Learning Goal: Day 1
 
-1. Install and run Python 3.6
+1. Install and run Python 3.7
 3. Learn where to find more information on about Python
 2. Be able to write, save, and run a basic program like "Hello World"
 5. Be able to describe the meaning of at least 10 Python specific terms
